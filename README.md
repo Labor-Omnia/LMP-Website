@@ -1,2 +1,2 @@
 # LMP-Website
-La mèche parfumée
+La mèche parfumée, création et fabrication de bougies parfumées.
